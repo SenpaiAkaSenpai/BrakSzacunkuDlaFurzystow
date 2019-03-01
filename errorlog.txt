@@ -1,0 +1,2 @@
+[01-Mar-2019 07:33:23 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/repozytoria/Kody/PHP/inc/template.php on line 10
+[01-Mar-2019 07:33:35 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/repozytoria/Kody/PHP/inc/template.php on line 10
