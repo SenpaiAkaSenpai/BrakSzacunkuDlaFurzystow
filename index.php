@@ -15,7 +15,7 @@ require_once(DINC.'db.php');
 $kom=array();
 
 init_baza(DBASE.$dbfile);
-db_exec($qstr);
+#db_exec($qstr);
 
 if (isset($_GET['id'])) $id=$_GET['id']; else $id='witam';
 
