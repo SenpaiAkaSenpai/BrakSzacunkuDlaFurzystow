@@ -17,7 +17,12 @@ $kom=array();
 init_baza(DBASE.$dbfile);
 #db_exec($qstr);
 
+require_once(DINC.'users.php');
+$user = new User();
+
 if (isset($_GET['id'])) $id=$_GET['id']; else $id='witam';
 
 include_once(DINC.'template.php');
+# print_r($_SERVER);
+print_r($_SESSION);
 ?>
