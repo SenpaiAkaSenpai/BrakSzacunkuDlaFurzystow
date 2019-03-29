@@ -1,2 +1,10 @@
-[01-Mar-2019 07:33:23 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/repozytoria/Kody/PHP/inc/template.php on line 10
-[01-Mar-2019 07:33:35 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/repozytoria/Kody/PHP/inc/template.php on line 10
+[29-Mar-2019 08:20:56 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:20:56 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:05 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:05 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:06 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:06 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:10 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:10 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:31 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
+[29-Mar-2019 08:21:31 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19

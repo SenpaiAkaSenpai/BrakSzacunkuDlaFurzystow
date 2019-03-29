@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title><?php echo $tytul; ?></title>
+    <title><?php get_page_title($id); ?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -48,8 +48,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <?php 
+            <?php
                 get_koms();
+                $user->get_koms();
                 get_page_content($id);
             ?>
           </div>
@@ -58,7 +59,7 @@
     </section>
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark fixed-bottom">
+    <footer class="fixed-bottom py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
       </div>
