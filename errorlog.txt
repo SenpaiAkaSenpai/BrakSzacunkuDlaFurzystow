@@ -1,10 +1,22 @@
-[29-Mar-2019 08:20:56 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:20:56 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:05 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:05 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:06 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:06 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:10 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:10 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:31 Europe/Warsaw] PHP Warning:  session_start(): open(sesje/sess_1cvhv27qiq1r1nebu2c70oe6qo, O_RDWR) failed: Nie ma takiego pliku ani katalogu (2) in /home/kl2ag1/public_html/inc/users.php on line 19
-[29-Mar-2019 08:21:31 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: sesje) in /home/kl2ag1/public_html/inc/users.php on line 19
+[05-Apr-2019 08:21:58 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:23:31 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:23:32 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:23:32 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:04 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:04 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:04 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:26:05 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:47 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:27:48 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasa'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:29:30 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
+[05-Apr-2019 08:29:31 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''klasy'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/kl2ag1/public_html/inc/functions.php on line 7
